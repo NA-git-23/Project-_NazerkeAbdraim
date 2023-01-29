@@ -1,0 +1,15 @@
+/Users/na/Desktop/Projects/C#_task9/obj/Debug/net6.0/C#_task9.csproj.AssemblyReference.cache
+/Users/na/Desktop/Projects/C#_task9/obj/Debug/net6.0/C#_task9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/na/Desktop/Projects/C#_task9/obj/Debug/net6.0/C#_task9.AssemblyInfoInputs.cache
+/Users/na/Desktop/Projects/C#_task9/obj/Debug/net6.0/C#_task9.AssemblyInfo.cs
+/Users/na/Desktop/Projects/C#_task9/obj/Debug/net6.0/C#_task9.csproj.CoreCompileInputs.cache
+/Users/na/Desktop/Projects/C#_task9/bin/Debug/net6.0/C#_task9
+/Users/na/Desktop/Projects/C#_task9/bin/Debug/net6.0/C#_task9.deps.json
+/Users/na/Desktop/Projects/C#_task9/bin/Debug/net6.0/C#_task9.runtimeconfig.json
+/Users/na/Desktop/Projects/C#_task9/bin/Debug/net6.0/C#_task9.dll
+/Users/na/Desktop/Projects/C#_task9/bin/Debug/net6.0/C#_task9.pdb
+/Users/na/Desktop/Projects/C#_task9/obj/Debug/net6.0/C#_task9.dll
+/Users/na/Desktop/Projects/C#_task9/obj/Debug/net6.0/refint/C#_task9.dll
+/Users/na/Desktop/Projects/C#_task9/obj/Debug/net6.0/C#_task9.pdb
+/Users/na/Desktop/Projects/C#_task9/obj/Debug/net6.0/C#_task9.genruntimeconfig.cache
+/Users/na/Desktop/Projects/C#_task9/obj/Debug/net6.0/ref/C#_task9.dll
